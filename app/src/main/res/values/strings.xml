@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CidadeBonita</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="Welcome">Welcome</string>
+    <string name="textoExemplo">The quality of urban road paving is directly related to user safety, lower operating costs (travel time and vehicle maintenance) and rolling comfort,
+        in addition to directly influencing the quality of urban mobility, among other social aspects.
+        Recife\'s road network has three basic types of coatings: asphalt, cobblestone and concrete slabs.
+        These are subjected to intense vehicle traffic and environmental factors and over time
+        suffer natural aging wear, as well as prematurely due to various forms of interventions in
+        the subsoil, such as rainwater drainage, sewage, water supply. , other telephone utility services, etc.
+        All of this influences the emergence of different types of problems in paving, such as “holes”, slumps,
+        and other types of more superficial wear.</string>
+    <string name="textoExplicacao">For these reasons, CidadeBonita was created with the aim of helping the people of the city of Recife and creating a much more favorable environment for them.</string>
+    <string name="msgError">User error</string>
+    <string name="btTelaInformation">more</string>
+    <string name="checkUser">Ready to help?</string>
+    <string name="cadastrar">Register</string>
+    <string name="email">Email</string>
+    <string name="lista">List</string>
+</resources>

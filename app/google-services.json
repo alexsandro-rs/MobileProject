@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256559019640",
+    "project_id": "cidadebonita-1416c",
+    "storage_bucket": "cidadebonita-1416c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256559019640:android:be6e1a1e6109948f7e9f8d",
+        "android_client_info": {
+          "package_name": "com.example.cidadebonita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256559019640-nuaun1b6gga7b18tmvvugnallespmcim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd2tuNUWAMxSg-mH41-ODmsyShnsyRYD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256559019640-nuaun1b6gga7b18tmvvugnallespmcim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
